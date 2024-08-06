@@ -32,11 +32,11 @@ const Hero = () => {
             words="Transforming Concepts into Seamless User Experiences"
           />
           <p className="text-center md:tracking-wider mb-4 text-small md:text-lg lg:text-2xl">
-            Hi, I&apos;m Jeremy Ang, a React.js Developer based in Singapore
+            Hi, I&apos;m Jeremy Ang, a React.js Developer Based in Singapore
           </p>
           <a href="#projects">
             <MagicButton
-              title="show my work"
+              title="Show My Work"
               icon={<FaLocationArrow />}
               position="right"
             />

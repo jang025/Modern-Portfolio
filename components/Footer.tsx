@@ -8,12 +8,12 @@ const Footer = () => {
     <footer className="w-full mb-[100px] pb-10 md:mb-5 " id="contact">
       <div className="flex flex-col items-center  ">
         <h1 className="heading lg:max-w-[45vw]">
-          Ready to take <span className="text-purple">your</span> digital
-          presence to the next level
+          I am excited about the opportunity to contribute to{" "}
+          <span className="text-purple">your</span> team&apos;s success
         </h1>
         <p className="text-white-200 md:mt-10 my-5">
-          Reach out to me today and let&apos;s discuss how i can help you
-          achieve your goals
+          Reach out to me today, and let&apos;s discuss how my qualifications
+          align with your needs.
         </p>
         <a href="mailto:jeremyangpinen@hotmail.com">
           <MagicButton
