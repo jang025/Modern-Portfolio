@@ -72,6 +72,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/resume.png",
-    link: "https://drive.google.com/file/d/1gUSo2wXw1L8bWBfRkG1Zp58BsmT7qfMk/view?usp=sharing",
+    link: "https://drive.google.com/file/d/1swD9RTMNBR5OIvPEuSc3Vq2Ho4H0Zs_P/view?usp=sharing",
   },
 ];
