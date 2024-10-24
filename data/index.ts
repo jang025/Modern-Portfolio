@@ -46,6 +46,14 @@ export const projects = [
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
     link: "apple-website-six-inky.vercel.app",
   },
+  {
+    id: 2,
+    title: "3-D Modern Website",
+    des: "Built with React.js for handling the user interface, Three.js for rendering 3D elements, and styled with TailwindCSS, the 3D Minimalistic portfolio is a website project.",
+    img: "/converted_portfolio_thumbnail.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "3-d-developer-portfolio-two.vercel.app",
+  },
 ];
 
 export const workExperience = [
