@@ -43,16 +43,16 @@ export const projects = [
     title: "Animated Apple Iphone 3D Website",
     des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
     img: "/p4.svg",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    iconLists: ["/tail.svg", "/re.svg", "/three.svg", "/gsap.svg"],
     link: "apple-website-six-inky.vercel.app",
   },
   {
     id: 2,
-    title: "3-D Modern Website",
-    des: "Built with React.js for handling the user interface, Three.js for rendering 3D elements, and styled with TailwindCSS, the 3D Minimalistic portfolio is a website project.",
-    img: "/converted_portfolio_thumbnail.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "3-d-developer-portfolio-two.vercel.app",
+    title: "Movie Application",
+    des: "Movie Application that renders list of movies , along with their movie information from the OMDb API",
+    img: "/Movie-Production.png",
+    iconLists: ["/re.svg"],
+    link: "movie-app-five-lime.vercel.app",
   },
 ];
 
@@ -80,6 +80,6 @@ export const socialMedia = [
   {
     id: 3,
     img: "/resume.png",
-    link: "https://drive.google.com/file/d/1ydAcmDiLRL9_eHWMfzjQ9BTyRm9Sz2T8/view?usp=sharing",
+    link: "https://drive.google.com/file/d/1hZVbDNZkXvSW22xTbs1bE3P_zH0ue-PT/view?usp=sharing",
   },
 ];
